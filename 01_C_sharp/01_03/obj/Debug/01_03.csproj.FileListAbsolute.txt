@@ -1,0 +1,6 @@
+/Users/billma/Desktop/Current_Target/Unity_learning_path/unity_uni/01_C_sharp/01_03/obj/Debug/01_03.csprojAssemblyReference.cache
+/Users/billma/Desktop/Current_Target/Unity_learning_path/unity_uni/01_C_sharp/01_03/obj/Debug/01_03.csproj.CoreCompileInputs.cache
+/Users/billma/Desktop/Current_Target/Unity_learning_path/unity_uni/01_C_sharp/01_03/bin/Debug/01_03.exe
+/Users/billma/Desktop/Current_Target/Unity_learning_path/unity_uni/01_C_sharp/01_03/bin/Debug/01_03.pdb
+/Users/billma/Desktop/Current_Target/Unity_learning_path/unity_uni/01_C_sharp/01_03/obj/Debug/01_03.exe
+/Users/billma/Desktop/Current_Target/Unity_learning_path/unity_uni/01_C_sharp/01_03/obj/Debug/01_03.pdb
