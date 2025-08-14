@@ -1,11 +1,11 @@
 # XR Learning Curve
 
 ## VR Techonology
-1. Difference Among VR, AR, MR, XR
+1. [Difference Among VR, AR, MR, XR](https://www.zhihu.com/column/c_1324452124609363968)
 2. Computer Vision (Outside)
     - Data Acquisition & Processing
     - SLAM
-3. VR Workflow (Middle)
+3. [VR Workflow (Middle)](vr_tech/vr_workflow.md)
     - OpenXR
 4. Computer Graphics (Inside)
 
@@ -14,15 +14,15 @@ Mainly handle the workflow (middle) and visual (inside)
 
 Handle request to data acquisition (outside)
 
-1. Game Lifecycle
-2. Components (Different parts of Game Engine)
+1. [Game Lifecycle](game_engine/lifecycle.md)
+2. [Components (Different parts of Game Engine)](game_engine/components.md)
     - Physics
-    - Rendering
+    - [Rendering](game_engine/rendering.md)
     - Animation
     - File Management
     - Input/Output
     - Garbage Collection
-3. Plugin (Special for VR/AR Development)
+3. [Plugin (Special for VR/AR Development)](game_engine/plugin.md)
     - General Plugin
         - XR Plugin
         - AR Foundation
