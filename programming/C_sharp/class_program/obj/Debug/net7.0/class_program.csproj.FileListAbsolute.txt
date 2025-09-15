@@ -1,0 +1,14 @@
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\class_program.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\class_program.AssemblyInfoInputs.cache
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\class_program.AssemblyInfo.cs
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\class_program.csproj.CoreCompileInputs.cache
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\bin\Debug\net7.0\class_program.exe
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\bin\Debug\net7.0\class_program.deps.json
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\bin\Debug\net7.0\class_program.runtimeconfig.json
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\bin\Debug\net7.0\class_program.dll
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\bin\Debug\net7.0\class_program.pdb
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\class_program.dll
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\refint\class_program.dll
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\class_program.pdb
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\class_program.genruntimeconfig.cache
+E:\dev\XR-Learning-Curve\programming\C_sharp\class_program\obj\Debug\net7.0\ref\class_program.dll
