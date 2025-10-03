@@ -61,3 +61,30 @@ Questions:
 
 ### Part 2: Scale, Challenges and Resources
 
+#### Scale
+
+Now think about the whole game. Think about all the parts of the game that can be numbered and grouped.
+
+1. Make a list, put down a number for each that seems reasonable
+2. Mentally cut each number in half
+   1. Is the game still playable?
+   2. Does it still create your core experience?
+   3. Now try to reduce each one and ask the same question
+
+#### Challenges
+
+Write down the top 3 challenges you foresee in the process of making the game. Be specific, and phrase them as questions
+
+#### Resources
+
+1. The most important resource is your own time, so look at your calendar, write down the smallest number of hours that you can safely commit to
+2. Now subtract 25% of the number for each week (things can happen)
+3. Find three specific tutorials that will help you make your game
+
+### Part 3: Reality Check
+
+Look at your challenges and resources. Do you feel confident that you can make a fun game based on this concept by the end of development?
+
+If so, explain why.
+
+If not, rethink the game. (Save your first idea for the future!)
